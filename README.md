@@ -68,8 +68,6 @@ We welcome contributions! Here’s how you can help:
    ```
 5. Open a pull request.
 
-Please check our [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
-
 ---
 
 ## 🗺️ Roadmap
@@ -90,7 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 🙋‍♂️ Questions or Support
 For any questions, suggestions, or support, please open an issue or reach out via:
-- **Email**: yourname@example.com
+- **Email**: virsarvesh@gmail.com
 - **Issues**: [GitHub Issues](https://github.com/blackpearl200/image-editor/issues)
 
 ---
